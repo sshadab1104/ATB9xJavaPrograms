@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Lab008 {
     public static void main(String[] args) {
-        // ASCII Value
+        // Practice 9: ASCII Value
+        // Input a character and Print its ASCII value
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Character: ");

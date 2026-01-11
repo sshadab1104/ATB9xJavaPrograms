@@ -2,8 +2,8 @@ package Core_Java_Revision.Day_1;
 
 public class Lab003 {
     public static void main(String[] args) {
-        // Print All Primitive Data Types
-        //byte, short, int, long, float, double, char, boolean
+        // Practice 2: All Primitive Data Types
+        // byte, short, int, long, float, double, char, boolean
 
         byte age = 24;
         short s = 124;

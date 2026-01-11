@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Lab004 {
     public static void main(String[] args) {
-        // Simple Calculator
+        // Practice 4: Simple Calculator
         // Take two numbers from user and print:
         //Addition, Subtraction, Multiplication, Division
         Scanner sc = new Scanner(System.in);

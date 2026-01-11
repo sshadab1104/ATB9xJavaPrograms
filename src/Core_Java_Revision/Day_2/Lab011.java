@@ -1,18 +1,20 @@
 package Core_Java_Revision.Day_2;
+
 import java.util.Scanner;
+
 public class Lab011 {
     public static void main(String[] args) {
-        // Program 2: Positive, Negative or Zero
-        // Input a number Check if it is positive, negative or zero
+        // Program 1: Even or Odd
+        // Input a number, Print whether number is Even or Odd
+
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the number: ");
+        System.out.println("Enter the number:");
         int n = sc.nextInt();
-        if(n<0){
-            System.out.println(n+" is Negative number.");
-        } else if (n==0) {
-            System.out.println(n+" is Zero");
-        } else {
-            System.out.println(n+" is Positive number.");
+        if(n%2==0){
+            System.out.println(n+" is Even Number");
+        }
+        else {
+            System.out.println(n+" is Odd Number");
         }
     }
 }

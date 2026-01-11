@@ -4,9 +4,8 @@ import java.util.Scanner;
 
 public class Lab005 {
     public static void main(String[] args) {
-        // Area of Rectangle
-        // Input length and breadth
-        // Print area and perimeter
+        // Practice 5: Area of Rectangle
+        // Input length and breadth and Print area and perimeter
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the length: ");
         int length = sc.nextInt();

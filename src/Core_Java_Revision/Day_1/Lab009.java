@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Lab009 {
     public static void main(String[] args) {
-        // Average of 3 Numbers
+        // Practice 10: Average of 3 Numbers
         // Input 3 numbers and Print average
 
         Scanner sc = new Scanner(System.in);

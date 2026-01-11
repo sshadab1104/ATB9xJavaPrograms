@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_1;
 
 public class Lab006 {
     public static void main(String[] args) {
-        // Swap Two Numbers (With 3rd variable)
+        // Practice 7: Swap Two Numbers (With 3rd variable)
         // Swap two numbers using temp variable
 
         int a = 10, b = 20;
