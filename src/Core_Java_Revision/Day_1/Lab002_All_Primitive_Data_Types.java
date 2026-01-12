@@ -1,6 +1,6 @@
 package Core_Java_Revision.Day_1;
 
-public class Lab003 {
+public class Lab002_All_Primitive_Data_Types {
     public static void main(String[] args) {
         // Practice 2: All Primitive Data Types
         // byte, short, int, long, float, double, char, boolean

@@ -1,6 +1,6 @@
 package Core_Java_Revision.Day_1;
 
-public class Lab007 {
+public class Lab007_SwapTwoNumbersWithout3variable {
     public static void main(String[] args) {
         // Practice 8: Swap Two Numbers (Without 3rd variable)
         // Swap using + and -

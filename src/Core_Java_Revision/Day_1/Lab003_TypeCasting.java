@@ -1,6 +1,6 @@
 package Core_Java_Revision.Day_1;
 
-public class Lab001_TypeCasting {
+public class Lab003_TypeCasting {
     public static void main(String[] args) {
         // Practice 3: Type Casting
         // Convert:

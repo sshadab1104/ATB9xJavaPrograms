@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_1;
 
 import java.util.Scanner;
 
-public class Lab010 {
+public class Lab010_Celsius_To_Fahrenheit {
     public static void main(String[] args) {
         // Program 6: Celsius to Fahrenheit
         // Input temperature in Celsius and Convert to Fahrenheit

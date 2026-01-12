@@ -1,6 +1,6 @@
 package Core_Java_Revision.Day_2;
 
-public class Lab018 {
+public class Lab018_SimpleCalculatorUsing_Switch {
     public static void main(String[] args) {
         // Program 8: Simple Calculator using switch
         // Input two numbers and operator (+, -, *, /) and perform operation using switch

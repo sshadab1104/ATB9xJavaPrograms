@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_2;
 
 import java.util.Scanner;
 
-public class Lab011 {
+public class Lab011_Even_Or_Odd {
     public static void main(String[] args) {
         // Program 1: Even or Odd
         // Input a number, Print whether number is Even or Odd

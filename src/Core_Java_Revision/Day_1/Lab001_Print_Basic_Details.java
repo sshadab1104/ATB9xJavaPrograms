@@ -1,6 +1,6 @@
 package Core_Java_Revision.Day_1;
 
-public class Lab002 {
+public class Lab001_Print_Basic_Details {
     public static void main(String[] args) {
         // Practice 1: Print Basic Details
         // Print your name, role, and experience using variables.

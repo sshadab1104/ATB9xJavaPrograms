@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_2;
 
 import java.util.Scanner;
 
-public class Lab016 {
+public class Lab016_GradeCalculator {
     public static void main(String[] args) {
         // Program 6: Grade Calculator
         // Input marks (0-100)

@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_2;
 
 import java.util.Scanner;
 
-public class Lab013 {
+public class Lab013_Largest_Two_Numbers {
     public static void main(String[] args) {
         // Program 3: Largest of Two Numbers
         // Input two numbers and Print the larger number

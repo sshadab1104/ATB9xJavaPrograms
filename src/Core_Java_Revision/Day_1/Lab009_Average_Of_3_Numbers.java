@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_1;
 
 import java.util.Scanner;
 
-public class Lab009 {
+public class Lab009_Average_Of_3_Numbers {
     public static void main(String[] args) {
         // Practice 10: Average of 3 Numbers
         // Input 3 numbers and Print average

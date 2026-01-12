@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_2;
 
 import java.util.Scanner;
 
-public class Lab019 {
+public class Lab019_DayNameUsing_Switch {
     public static void main(String[] args) {
         // Program 9: Day Name using switch
         // Input number (1-7) and Print day name

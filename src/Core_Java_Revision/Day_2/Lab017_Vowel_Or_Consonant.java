@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_2;
 
 import java.util.Scanner;
 
-public class Lab017 {
+public class Lab017_Vowel_Or_Consonant {
     public static void main(String[] args) {
         // Program 7: Vowel or Consonant
         // Input a character and check if it is vowel or consonant

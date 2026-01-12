@@ -1,6 +1,6 @@
 package Core_Java_Revision.Day_1;
 
-public class Lab006 {
+public class Lab006_SwapTwoNumbers {
     public static void main(String[] args) {
         // Practice 7: Swap Two Numbers (With 3rd variable)
         // Swap two numbers using temp variable

@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_1;
 
 import java.util.Scanner;
 
-public class Lab008 {
+public class Lab008_ASCII_Value {
     public static void main(String[] args) {
         // Practice 9: ASCII Value
         // Input a character and Print its ASCII value

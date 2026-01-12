@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_1;
 
 import java.util.Scanner;
 
-public class Lab005 {
+public class Lab005_Area_Of_Rectangle {
     public static void main(String[] args) {
         // Practice 5: Area of Rectangle
         // Input length and breadth and Print area and perimeter

@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_1;
 
 import java.util.Scanner;
 
-public class Lab004 {
+public class Lab004_SimpleCalculator {
     public static void main(String[] args) {
         // Practice 4: Simple Calculator
         // Take two numbers from user and print:

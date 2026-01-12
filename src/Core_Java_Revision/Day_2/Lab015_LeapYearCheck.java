@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_2;
 
 import java.util.Scanner;
 
-public class Lab015 {
+public class Lab015_LeapYearCheck {
     public static void main(String[] args) {
         // Program 5: Leap Year Check
         // Input year check if it is a leap year

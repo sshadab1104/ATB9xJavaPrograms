@@ -1,6 +1,6 @@
 package Core_Java_Revision.Day_2;
 
-public class Lab014 {
+public class Lab014_Largest_Three_Numbers {
     public static void main(String[] args) {
         // Program 4: Largest of Three Numbers.
         // Input three numbers and find the largest using if-else

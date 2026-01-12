@@ -2,7 +2,7 @@ package Core_Java_Revision.Day_2;
 
 import java.util.Scanner;
 
-public class Lab020 {
+public class Lab020_LoginValidation {
     public static void main(String[] args) {
         // Program 10: Login Validation
         // Input username and password
