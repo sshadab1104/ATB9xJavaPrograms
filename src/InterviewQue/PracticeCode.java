@@ -5,14 +5,12 @@ import java.util.Scanner;
 public class PracticeCode {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter number");
+        System.out.println("Enter the number");
         int n = sc.nextInt();
-        int rev = 0;
-        while(n>0){
-            int lastDigit = n%10;
-            rev = rev*10 + lastDigit;
-            n /= 10;
+        int[] arr = {12,78,45,9,45,48,5,7};
+        for (int i=arr.length-1; i>=0; i--){
+            System.out.print(arr[i]+" ");
         }
-        System.out.println(rev);
+
     }
 }
