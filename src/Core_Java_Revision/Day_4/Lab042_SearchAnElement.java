@@ -12,8 +12,9 @@ public class Lab042_SearchAnElement {
         for (int i=0; i<arr.length; i++){
             if (arr[i]==n) {
                 flag = true;
+                break;
             }
-        } if (flag==true){
+        } if (flag){
             System.out.println(n+": Is present in array");
         }
         else {

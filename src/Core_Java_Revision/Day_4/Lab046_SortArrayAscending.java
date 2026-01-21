@@ -1,11 +1,9 @@
-package InterviewQue.Array;
+package Core_Java_Revision.Day_4;
 
-import java.util.Scanner;
-
-public class P001 {
+public class Lab046_SortArrayAscending {
     public static void main(String[] args) {
-        int[] arr = {20,45,78,1,46,21,25,34};
-        for (int i=0; i<arr.length; i++){
+        int[] arr = {45,32,35,14,78,59,42};
+        for (int i=0; i< arr.length; i++){
             for (int j=i+1; j< arr.length; j++){
                 if (arr[i]> arr[j]){
                     int temp = arr[i];
