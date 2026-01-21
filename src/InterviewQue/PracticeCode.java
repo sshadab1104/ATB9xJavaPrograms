@@ -4,13 +4,17 @@ import java.util.Scanner;
 
 public class PracticeCode {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the number");
-        int n = sc.nextInt();
-        int[] arr = {12,78,45,9,45,48,5,7};
-        for (int i=arr.length-1; i>=0; i--){
-            System.out.print(arr[i]+" ");
-        }
-
+        int[] arr = {40,48,79,45,62,4,5,11,7,};
+        int max = Integer.MIN_VALUE;
+        int smax = Integer.MIN_VALUE;
+        for (int i: arr){
+            if (max<i){
+                max = i;
+            }
+                if (smax<i && i!=max){
+                    smax = i;
+                }
+            }
+        System.out.println(smax);
     }
 }
